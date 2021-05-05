@@ -33,5 +33,6 @@ This is a powerful figure, but lots of other genomes have been sequenced since t
 8. Save the file as a JPEG
 
 # My Figure 
-![My Figure](https://drive.google.com/file/d/1k3cRqKkE7QKHHJtmAEvHU16qIova3158/view?usp=sharing)
-![Trimmed Version](https://drive.google.com/file/d/1FbBx-zfPl6_awAW89Peua1m3DEp5nLuG/view?usp=sharing)
+![My Figure](https://ibb.co/tBXxkKn)
+![Trimmed Version](https://ibb.co/tBXxkKn)
+
