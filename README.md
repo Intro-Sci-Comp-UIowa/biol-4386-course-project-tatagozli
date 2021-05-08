@@ -52,8 +52,8 @@ However, there are a few differences between my figure and the original one:
 
 # Discussion
 There's a number of hypotheses I have for the novel conclusions in my new figure which would require further research. 
-1.) These genes are missing from plants and rhizaria because 1.) They are not compatible with these organisms, 2.) These genes emerged after plants and rhizaria had diverged from the eukaryotic tree. To test these hypotheses we could look at the phylogeny of these genes to see when they appeared or do transform these genes into plants and see what happens. 
-2.) We know that Hsp104 is toxic to developing animals, including *C. elegans* and *X.laevis [Skuodas and Clemons, 2020](https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-08-0443), presumably because Hsp104 interferes with native aggregates. I would be interested in introducing ClpB into *C. elegans* to see if it is also toxic. 
-3.) Some exceptions could result from horizontal gene transfer.To test this I would want to know if the match resembles a bacterial variant of the protein 
+1. These genes are missing from plants and rhizaria because 1.) They are not compatible with these organisms, 2.) These genes emerged after plants and rhizaria had diverged from the eukaryotic tree. To test these hypotheses we could look at the phylogeny of these genes to see when they appeared or do transform these genes into plants and see what happens. 
+2. We know that Hsp104 is toxic to developing animals, including *C. elegans* and *X.laevis [Skuodas and Clemons, 2020](https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-08-0443), presumably because Hsp104 interferes with native aggregates. I would be interested in introducing ClpB into *C. elegans* to see if it is also toxic. 
+3. Some exceptions could result from horizontal gene transfer.To test this I would want to know if the match resembles a bacterial variant of the protein 
 
 
