@@ -56,4 +56,16 @@ There's a number of hypotheses I have for the novel conclusions in my new figure
 2. We know that Hsp104 is toxic to developing animals, including *C. elegans* and *X.laevis [Skuodas and Clemons, 2020](https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-08-0443), presumably because Hsp104 interferes with native aggregates. I would be interested in introducing ClpB into *C. elegans* to see if it is also toxic. 
 3. Some exceptions could result from horizontal gene transfer.To test this I would want to know if the match resembles a bacterial variant of the protein 
 
+# Reflection 
+As someone new to computer science, I had a lot of hurdles during this work, but I was able to overcome them and produce an acceptable figure while learning a lot in the course. My original goal in using this figure was to use the ensembl pipeline like the authors did to see if I would have a different list of genes than the 27 they predicted. 
+However, I could not figure out what they did from what was written in the paper, and more specifically I could not figure out how to use ensembl to compare multiple genomes are once. 
+Thus, I was stuck on this step for a long time. Eventually I decided to start with the 27 genes they had already predicted, and to build on their original figure by using an expanded list of genomes. 
+At this point, my progress on the project was more smooth. With the BLAST analysis, I made sure to read up on E-values and available database (nonredundant vs refseq), but for the most part I didn't have any problems. I figured out how to make the heat map in excel by using google and youtube. 
+If I was repeating this project, and I had more time, I would consider using HMMR in addition to BLASTP and comparing the results. I would also have tried to use R to make the heat map.
+Lastly, I would have asked for help sooner instead of remaining stuck on the same step for such a long time. 
+Overall, I am pleased with my final product, and I look forward to discussing the figure with my P.I. to get her thoughts on it. 
+Regarding the course, I got a lot out of it. That being said, I am far from skilled in R, Python, or Unix. 
+However, I have an introductory understanding of all these systems and feel I could learn them more easily if I needed to in the future. 
+I did see a lot of personal improvement in this course. Most notably, I am comfortable with  Unix and Github. For example, I can make directories, files, and write stuff in markdown in my fastx terminal and push any changes to github. 
+I was not able to do these things before I took the course, and these basic skills should help if I take future courses or workshops in computer science. 
 
