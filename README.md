@@ -1,3 +1,6 @@
+# Github link
+https://github.com/Intro-Sci-Comp-UIowa/biol-4386-course-project-tatagozli/tree/main [Github link](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-course-project-tatagozli/tree/main)
+
 # Title
 Erives AJ, Fassler JS (2015) Metabolic and Chaperone Gene Loss Marks the Origin of Animals: Evidence for Hsp104 and Hsp78 Chaperones Sharing Mitochondrial Enzymes as Clients. PLoS ONE 10(2): e0117192. https://doi.org/10.1371/journal.pone.0117192
 
@@ -23,7 +26,7 @@ Figure 1 of this paper uses computational methods to identify genes and genetic 
 # My Project 
 This is a powerful figure, but lots of other genomes have been sequenced since this figure was made by Erives and Fassler. These genomes can be found in Paps et al., 2018. My objective is to redo their BLASTP analysis with more genomes, including more non-animal eukaryotes (besides fungi and choanoflagellates), and more animal genomes.
 
-# Materials and Methods
+# Methods
 1. Obtain the protein sequences for the 27 yeast genes in FASTA format from the supplemental figures of Erives and Fassler, 2015.
 2. Obtain the list of sequenced genomes from Paps et al., 2018
 3. Use the RefSeq_protein database in NCBI BLASTP to check for alignments between the 27 candidate genes and the sequenced genomes. For genomes not available in the RefSeq database, use the non-redundant database
@@ -40,5 +43,20 @@ This is a powerful figure, but lots of other genomes have been sequenced since t
 ~[Trimmed Version](https://ibb.co/LJYV1Dy)
 ![Trimmed Version](https://i.ibb.co/F0mRzk1/Data-Trimmed.jpg)
 
+# Results and Conclusions 
+My figure agrees with the original conclusion by the authors that these 27 yeast genes are mostly lost in animals but retained in fungi and choanoflagellates.
+However, there are a few differences between my figure and the original one: 
+1.) While the 27 genes are found in fungi and choanoflagellates, they are not present in plants or rhizaria.
+2.) Hsp104 and Hsp78 is conserved in animals as Clpb, a nonfunctional variant. However, some genomes, including the widely used model organism, *C. elegans*, do not even have this nonfunctional variant
+3.) There are individual animal genomes in the figure which seem to have somewhat strong matches to some of the genes
+
+# Discussion
+There's a number of hypotheses I have for the novel conclusions in my new figure which would require further research. 
+1.) These genes are missing from plants and rhizaria because 1.) They are not compatible with these organisms, 2.) These genes emerged after plants and rhizaria had diverged from the eukaryotic tree. 
+* To test these hypotheses we could look at the phylogeny of these genes to see when they appeared or do transform these genes into plants and see what happens. 
+2.) We know that Hsp104 is toxic to developing animals, including *C. elegans* and *X.laevis [Skuodas and Clemons, 2020](https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-08-0443), presumably because Hsp104 interferes with native aggregates.
+* I would be interested in introducing ClpB into *C. elegans* to see if it is also toxic. 
+3.) Some exceptions could result from horizontal gene transfer 
+* To test this I would want to know if the match resembles a bacterial variant of the protein 
 
 
