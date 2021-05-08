@@ -63,6 +63,7 @@ Thus, I was stuck on this step for a long time. Eventually I decided to start wi
 At this point, my progress on the project was more smooth. With the BLAST analysis, I made sure to read up on E-values and available database (nonredundant vs refseq), but for the most part I didn't have any problems. I figured out how to make the heat map in excel by using google and youtube. 
 If I was repeating this project, and I had more time, I would consider using HMMR in addition to BLASTP and comparing the results. I would also have tried to use R to make the heat map.
 Lastly, I would have asked for help sooner instead of remaining stuck on the same step for such a long time. 
+
 Overall, I am pleased with my final product, and I look forward to discussing the figure with my P.I. to get her thoughts on it. 
 Regarding the course, I got a lot out of it. That being said, I am far from skilled in R, Python, or Unix. 
 However, I have an introductory understanding of all these systems and feel I could learn them more easily if I needed to in the future. 
