@@ -67,6 +67,7 @@ Lastly, I would have asked for help sooner instead of remaining stuck on the sam
 Overall, I am pleased with my final product, and I look forward to discussing the figure with my P.I. to get her thoughts on it. 
 Regarding the course, I got a lot out of it. That being said, I am far from skilled in R, Python, or Unix. 
 However, I have an introductory understanding of all these systems and feel I could learn them more easily if I needed to in the future. 
-I did see a lot of personal improvement in this course. Most notably, I am comfortable with  Unix and Github. For example, I can make directories, files, and write stuff in markdown in my fastx terminal and push any changes to github. 
-I was not able to do these things before I took the course, and these basic skills should help if I take future courses or workshops in computer science. 
+I did see a lot of personal improvement in this course. Most notably, I am comfortable with  Unix and Github.
+For example, I can make directories, files, and write stuff in markdown in my fastx terminal and push any changes to github relatively easily. 
+I was not able to do these things before I took the course. I think  these basic skills will be helpful if I take future courses or workshops in computer science. 
 
